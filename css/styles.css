@@ -2,7 +2,7 @@
 
 /* Основные стили для всего документа */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -20,6 +20,10 @@ header {
 
 header h1 {
     margin: 0;
+}
+
+header a {
+    color: #fff;
 }
 
 /* Стили для навигационного меню */
